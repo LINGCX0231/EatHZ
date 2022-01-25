@@ -1,1 +1,1 @@
-# EatHz
+# EatHZ
